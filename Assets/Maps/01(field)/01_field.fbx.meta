@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 4f2ef2ae4ec78e64d9624df21bfca104
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BACKSIDE.BMP
+    second: {fileID: 2100000, guid: dba094cb7809d0b4b8485e1a7ffa8e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GNDBlack
+    second: {fileID: 2100000, guid: 5a8832e6feb260d4f8a322cbfd863889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__ge_tree1_01.bmp"
+    second: {fileID: 2100000, guid: 68a55aec72e3a024ab3fb2d5ab5d37eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__ge_tree1_02.bmp"
+    second: {fileID: 2100000, guid: e9d0a3a40493f744cb2ad4446208fb6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__ge_tree1_04.bmp"
+    second: {fileID: 2100000, guid: 9417af6a2fe10dc4996491e0f6610d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__leaf_10.bmp"
+    second: {fileID: 2100000, guid: b6edf172385433642907e31282785b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__ma_tree01.bmp"
+    second: {fileID: 2100000, guid: 561f5538675949842b759730eb0a05b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__ma_tree02.bmp"
+    second: {fileID: 2100000, guid: e1b9b128b6415214dbd2c71c0ce07ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pron-leaf_1.bmp"
+    second: {fileID: 2100000, guid: bc2cba1a2485ae44daf8b58bc4ffb46c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pron-leaf_2.bmp"
+    second: {fileID: 2100000, guid: c615aef7dc73dbf4abd19d5c2439fd82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674__________-08.bmp"
+    second: {fileID: 2100000, guid: 2ba245ef1cbaeb540a0d56d6ccdbc8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674__________-09.bmp"
+    second: {fileID: 2100000, guid: 680c6738eaebf55478094ca2274d7176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674__________-10.bmp"
+    second: {fileID: 2100000, guid: f451b1ad7b08016499288a0aad795cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674__________-12.bmp"
+    second: {fileID: 2100000, guid: 8484ae8ecd04aeb42bd9ddaee1f9b737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-00.bmp"
+    second: {fileID: 2100000, guid: 34c653852f9db6645b76835f04457f91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-01.bmp"
+    second: {fileID: 2100000, guid: 6fa93403394e43a4f8b03059c4434f2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-02.bmp"
+    second: {fileID: 2100000, guid: 1b234386fb447a642ac1fa70d369ba2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-03.bmp"
+    second: {fileID: 2100000, guid: 62dbccd998f793143a970ef05c9cc661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-04.bmp"
+    second: {fileID: 2100000, guid: 1c3cd3b42c945124b82b7341d9468b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-05.bmp"
+    second: {fileID: 2100000, guid: feadcfe833dff014890b6ca2c35ca89e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-06.bmp"
+    second: {fileID: 2100000, guid: d4ff1f2f0f132cc44886472b75237db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674_______\u02B5_-07.bmp"
+    second: {fileID: 2100000, guid: 0b865ba6f96096d4bb8558b70a29196a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u06F7___\u01AE_____\u0674_.bmp"
+    second: {fileID: 2100000, guid: df1dde3b3463f6446824449ab00c85f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u06F7___\u01AE_____\u0674_2.bmp"
+    second: {fileID: 2100000, guid: d599cd7136d3c68438ab24e5c2f343bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674__glst-cstle9.bmp"
+    second: {fileID: 2100000, guid: 5f4e02c38ad9da24cb77c248f6b1c5f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0__\u06F7___\u01AE-1____.bmp"
+    second: {fileID: 2100000, guid: 7a0a693979526034b9a2f01091f5afd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_gl_archbri_03.bmp"
+    second: {fileID: 2100000, guid: 00c4f91dfd31e944e9f02d95b81fe40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_gl_breakpillar01.bmp"
+    second: {fileID: 2100000, guid: 6a022d7ead06f2241a31fc8b51f9faed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_gl_breakpillar03.bmp"
+    second: {fileID: 2100000, guid: 8bd2ae2d568b18948922869ff036f896, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_gl_breakpillar04.bmp"
+    second: {fileID: 2100000, guid: 050696b564df8244d9bd9e3cb9bec9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_gl_entrance01.bmp"
+    second: {fileID: 2100000, guid: fc24706d66281b347aa1c1209843981b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_gl_entrance07.bmp"
+    second: {fileID: 2100000, guid: 54b40146b5b8baa4e8e52aaafabc2871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_glst-cstle7.bmp"
+    second: {fileID: 2100000, guid: 8ba274aa817cf5d408c0049238ffd857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_glst-cstle7_1.bmp"
+    second: {fileID: 2100000, guid: 3d6c13c56de5ae940a4e46452a2a79e7, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

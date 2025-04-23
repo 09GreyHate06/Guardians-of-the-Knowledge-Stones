@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 5051b092507552746933ecb85469f473
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BACKSIDE.BMP
+    second: {fileID: 2100000, guid: 21a56946459d4034681809cfa7f7bab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GNDBlack
+    second: {fileID: 2100000, guid: d97c13c827b574a49909450c959102cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__du-treeside1.bmp"
+    second: {fileID: 2100000, guid: ad25bca0f8bd9784491f6a0297d3d42d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__fie-leav1.bmp"
+    second: {fileID: 2100000, guid: 7a11a0d8961f93d4fb834b926485e537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__j_sakura001.bmp"
+    second: {fileID: 2100000, guid: 4db5146b327402449902e8885368d8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__j_sakura02.bmp"
+    second: {fileID: 2100000, guid: fc8c4d7c93c55444ea6d96663a4712aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__leaf_10.bmp"
+    second: {fileID: 2100000, guid: 6145f50f5ace01443bcb6e993e4d0fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__mo-leaves1.bmp"
+    second: {fileID: 2100000, guid: 895d9785c61e3844db0cbb4f9496e166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__mo-leaves1_2.bmp"
+    second: {fileID: 2100000, guid: 8696894b512bcf648ad1d0535562b9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__mo-tree1.bmp"
+    second: {fileID: 2100000, guid: 2c46764eaa3eace428f69f51118875dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__mo-tree2.bmp"
+    second: {fileID: 2100000, guid: 38f88685d9534e241b11a10f1bc9a1d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pay-bamboo1.bmp"
+    second: {fileID: 2100000, guid: 4c4502f43a1eb2e4ea690bcb25a8947d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pay-bamboo2.bmp"
+    second: {fileID: 2100000, guid: b7da098a90e016a4e9840501f0e4a901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pay-bamboo3.bmp"
+    second: {fileID: 2100000, guid: 39afc7f124b71e74c9968397f0e9b125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pron-leaf_1.bmp"
+    second: {fileID: 2100000, guid: 4fc9d66713b711c4299a3decbb6a10da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__pron-leaf_2.bmp"
+    second: {fileID: 2100000, guid: 3254041cfabb8644cbd1d00f29c0d019, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__prt-fie-tree1.bmp"
+    second: {fileID: 2100000, guid: 93da441264bbb8146b102616ef54c036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__prt-fie-tree2.bmp"
+    second: {fileID: 2100000, guid: 95af02e817bd39f45aca903019267e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__prt-fie-tree3.bmp"
+    second: {fileID: 2100000, guid: cd32bddac46a41f498fab230d26a9dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__prt-leaf1.bmp"
+    second: {fileID: 2100000, guid: bf22c172e93ae8e4e85791cde63f6eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__reed.bmp"
+    second: {fileID: 2100000, guid: 142a6847fca17cd458c061b775df3ff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__ston.bmp"
+    second: {fileID: 2100000, guid: cb30974b3dd310541be6180f0a1414d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_______\u02B2__treeside1.bmp"
+    second: {fileID: 2100000, guid: 46b30f89e37dc7c4587baebdb2649dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "___\u033F__pe_fence_01.bmp"
+    second: {fileID: 2100000, guid: 5339cc7cbf7f0ac4a8839796b94c0e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____j_minga01.bmp"
+    second: {fileID: 2100000, guid: 4e8c0d4277cfd7c418db740ad35b7e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____j_minga02.bmp"
+    second: {fileID: 2100000, guid: 644a9dab70de7e44d91ad0e81eaf53a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____j_minga03.bmp"
+    second: {fileID: 2100000, guid: 127129678b48aa94c8085fca21a88f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____j_stower.bmp"
+    second: {fileID: 2100000, guid: 7ee00752ccc2b2a4588ab913f93edcf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_h_01.bmp"
+    second: {fileID: 2100000, guid: 63059908898fd554ab96285fedbde42a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_h_02.bmp"
+    second: {fileID: 2100000, guid: b35ff26dcb37f15459346101a409caf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_h_03.bmp"
+    second: {fileID: 2100000, guid: 45863dd4009b1614a97a9a03f59d0a15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_shrine00.bmp"
+    second: {fileID: 2100000, guid: 9d2b93c0ac5de6e449f8e2db54b94416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_shrine01.bmp"
+    second: {fileID: 2100000, guid: 5ace6ff2b0f86e348b8049f6d2a35f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_shrine02.bmp"
+    second: {fileID: 2100000, guid: 17bf4eefe1a07384d8145179c7752001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_shrine03.bmp"
+    second: {fileID: 2100000, guid: f0a336a79c74dff47b4fc23706432fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____jap_shrine04.bmp"
+    second: {fileID: 2100000, guid: a46299f9d02f14045b13e1a7211f2eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "__\u0178_____japlogu_01.BMP"
+    second: {fileID: 2100000, guid: fccadcf46f2dbef48999b2217dab121d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_01.bmp"
+    second: {fileID: 2100000, guid: d5023ca55372620448259945f3e48db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_04.bmp"
+    second: {fileID: 2100000, guid: d0a7f97eaefdd054a8be6998af20392f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_05.bmp"
+    second: {fileID: 2100000, guid: 604b7dcf26948d34bac39257e380e2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_06.bmp"
+    second: {fileID: 2100000, guid: de205887ec9020a4099707feb991d112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_07.bmp"
+    second: {fileID: 2100000, guid: 7a4a761ad9a90a14b89452f79c4e549f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_08.bmp"
+    second: {fileID: 2100000, guid: 07caa6587135b56419a76f0123d23cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_09.bmp"
+    second: {fileID: 2100000, guid: 50f48a51e8c8cdb48870fecefed96464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_10.bmp"
+    second: {fileID: 2100000, guid: ed77bcc832352b34da53cd289f8d667e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_11.bmp"
+    second: {fileID: 2100000, guid: 7a98e5a3d06fb9349b3c03a7bcda0faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_12.bmp"
+    second: {fileID: 2100000, guid: af85e3038ef1c964d9b35857bad6eb90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_13.bmp"
+    second: {fileID: 2100000, guid: 1f0ee90ce96b71b4f82e47d6152bf9e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_14.bmp"
+    second: {fileID: 2100000, guid: 17a7fb699c90ae14386ace292fea0726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_16.bmp"
+    second: {fileID: 2100000, guid: 4b50297cce6781d498740796f581bb6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_17.bmp"
+    second: {fileID: 2100000, guid: 3ea659955ea807a4aa8e1e1bd6fb13b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u02B5__\u0674___\u03FA__\u0674_18.bmp"
+    second: {fileID: 2100000, guid: 5286507cb2058534baa4d961f5cde994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_mon-tree1.bmp"
+    second: {fileID: 2100000, guid: dd5862f643484bc4bbe095fe9698860e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_mon-tree2.bmp"
+    second: {fileID: 2100000, guid: 46a7ddef6b049f24caf2ced6c84bf594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_\u073A\u03BC_\u01F0_mon-tree3.bmp"
+    second: {fileID: 2100000, guid: f6c8cca27751cc448b73a4dce57586c9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
