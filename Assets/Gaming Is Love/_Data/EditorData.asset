@@ -17,16 +17,16 @@ MonoBehaviour:
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
   section: 5
-  subSection: 6
-  tabIndex: 3
-  scrollY: 2940
+  subSection: 8
+  tabIndex: 1
+  scrollY: 7276
   foldoutLimit: 
   helpDrag: 220
-  subSectionDrag: 250
+  subSectionDrag: 152
   tabListDrag: 250
   formulaDrag: 250
   schematicDrag: 334
-  jumpListDrag: 250
+  jumpListDrag: 194
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
   createBackup: 1
