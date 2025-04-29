@@ -2032,6 +2032,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5399061732949678847}
+  - component: {fileID: 34920990223142285}
   m_Layer: 10
   m_Name: Weapon
   m_TagString: Untagged
@@ -2054,6 +2055,91 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2773347958855076932}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
+--- !u!114 &34920990223142285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7362789980771141435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -344071752, guid: 2f433824042009943be1767c00adb2ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_setting:
+    name: settings
+    byteData: 
+    xmlData: '<xmldata materialIndex="0" >
+
+      <_bool setScale="False" useChildRenderer="False"
+      useMaterialIndex="False" onlyCombatantBattle="True" />
+
+      <_floatarrays>
+
+      <scale
+      1 1 1 />
+
+      </_floatarrays>
+
+      <_string>
+
+      <childRenderer><![CDATA[]]></childRenderer>
+
+      </_string>
+
+      <equipmentSlot>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="0" />
+
+      </settings>
+
+      </equipmentSlot>
+
+      <condition needed="0"
+      >
+
+      <_subarrays>
+
+      <condition>
+
+      </condition>
+
+      </_subarrays>
+
+      </condition>
+
+      <_subarrays>
+
+      <childLink>
+
+      </childLink>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets:
+      - {fileID: 11400000, guid: d48e9dc6a8ee6274e91728d2e86570c4, type: 2}
+    encrypted: 0
+    stringData: 
 --- !u!1 &7380854697537593827
 GameObject:
   m_ObjectHideFlags: 0

@@ -18,15 +18,15 @@ MonoBehaviour:
   editorHelpLanguageTexts: {fileID: 0}
   section: 6
   subSection: 6
-  tabIndex: 7
-  scrollY: 4670
+  tabIndex: 3
+  scrollY: 1731
   foldoutLimit: 
   helpDrag: 135
   subSectionDrag: 201
   tabListDrag: 250
   formulaDrag: 250
   schematicDrag: 305
-  jumpListDrag: 194
+  jumpListDrag: 229
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
   createBackup: 1
