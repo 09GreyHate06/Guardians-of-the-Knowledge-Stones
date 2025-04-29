@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/04.unity
     guid: 151caea9c1b32454c986ea05b1efe802
+  - enabled: 1
+    path: Assets/Scenes/Forest Battle Scene.unity
+    guid: 4c12822dd6575504ea9d44053f6dfed8
+  - enabled: 1
+    path: Assets/Scenes/Courtyard Battle Scene.unity
+    guid: cc830b18082f4034dbb2efde8db94d21
+  - enabled: 1
+    path: Assets/Scenes/Castle Battle Scene.unity
+    guid: 0be570b982d0c7441b82c707632c4f3f
+  - enabled: 1
+    path: Assets/Scenes/Boss Battle Scene.unity
+    guid: 32b5f374c8e8da74ba2c4cca92ef87c5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
