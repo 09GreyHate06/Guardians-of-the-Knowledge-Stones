@@ -1492,7 +1492,7 @@ MonoBehaviour:
       <0>
 
       <_float
-      chance="25" />
+      chance="20" />
 
       <_bool useGroup="False" />
 
@@ -1628,7 +1628,7 @@ MonoBehaviour:
       <1>
 
       <_float
-      chance="25" />
+      chance="20" />
 
       <_bool useGroup="False" />
 
@@ -1764,7 +1764,7 @@ MonoBehaviour:
       <2>
 
       <_float
-      chance="25" />
+      chance="20" />
 
       <_bool useGroup="True" />
 
@@ -1903,7 +1903,7 @@ MonoBehaviour:
       <3>
 
       <_float
-      chance="25" />
+      chance="20" />
 
       <_bool useGroup="True" />
 
@@ -2039,6 +2039,145 @@ MonoBehaviour:
 
       </3>
 
+      <4>
+
+      <_float
+      chance="20" />
+
+      <_bool useGroup="True" />
+
+      <faction>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="10" />
+
+      </settings>
+
+      </faction>
+
+      <group>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="11" />
+
+      </settings>
+
+      </group>
+
+      <member battleGroupIndex="0"
+      >
+
+      <_bool useType="False" useSubTypes="False" learnAbilities="True" useStartInventory="True"
+      useStartEquipment="True" useInitSchematic="True" blockConditionalPrefabs="False"
+      isPassive="False" passiveMustDefeat="False" setBattleGroupIndex="False" useLevelZone="True"
+      classUseLevelZone="True" />
+
+      <combatant>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="12" />
+
+      </settings>
+
+      </combatant>
+
+      <level type="0"
+      minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+
+      <_float
+      formulaInitialValue="0" />
+
+      <_bool onlyBattle="False" />
+
+      <_string>
+
+      <key><![CDATA[]]></key>
+
+      </_string>
+
+      </level>
+
+      <classLevel
+      type="0" minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+
+      <_float
+      formulaInitialValue="0" />
+
+      <_bool onlyBattle="False" />
+
+      <_string>
+
+      <key><![CDATA[]]></key>
+
+      </_string>
+
+      </classLevel>
+
+      </member>
+
+      <requirement>
+
+      <_bool
+      checkDifficulty="False" />
+
+      <variableCondition needed="0" >
+
+      <_subarrays>
+
+      <variable>
+
+      </variable>
+
+      </_subarrays>
+
+      </variableCondition>
+
+      </requirement>
+
+      </4>
+
       </combatant>
 
       </_subarrays>
@@ -2057,6 +2196,9 @@ MonoBehaviour:
       - {fileID: 11400000, guid: 6eedf81ceaad246499cf474b2fb985d6, type: 2}
       - {fileID: 11400000, guid: c6753d4a66c04fb41b74108293dbdc35, type: 2}
       - {fileID: 11400000, guid: dfc30b5a88237704c825fa20c5e10d48, type: 2}
+      - {fileID: 11400000, guid: 6eedf81ceaad246499cf474b2fb985d6, type: 2}
+      - {fileID: 11400000, guid: c6753d4a66c04fb41b74108293dbdc35, type: 2}
+      - {fileID: 11400000, guid: bfbd06c03c42476499538f6a57300ec9, type: 2}
       - {fileID: 11400000, guid: 6eedf81ceaad246499cf474b2fb985d6, type: 2}
     encrypted: 0
     stringData: 

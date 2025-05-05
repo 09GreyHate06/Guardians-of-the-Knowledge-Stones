@@ -19,9 +19,9 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: 51633e36e13f0b4459c83b656417a19a, type: 2}
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
+      - {fileID: 11400000, guid: 7dff76eb9d67321409cdbc270898645a, type: 2}
+      - {fileID: 11400000, guid: 0f3e86a81833f6f429239698bd0b9ed7, type: 2}
+      - {fileID: 11400000, guid: 0cb191648a4ae3e4db469a07346217ec, type: 2}
+      - {fileID: 11400000, guid: 65557ee20190ebf4c9ba91144759681f, type: 2}
     encrypted: 0
   sortAtEnd: 0
