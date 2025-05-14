@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d90b9d1816d014c84aa66bf48fa79d, type: 3}
+  m_Name: Who was the first Speaker of the Philipp
+  m_EditorClassIdentifier: 
+  _question: Who was the first Speaker of the Philippine Assembly in 1907?
+  _choices:
+  - Jose Rizal
+  - "Sergio Osme\xF1a"
+  - Manuel Roxas
+  - Manuel L. Quezon
+  _answerIndex: 3

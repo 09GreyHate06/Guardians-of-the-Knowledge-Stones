@@ -10,11 +10,14 @@ namespace Core.GOTKS.Editor
         [MenuItem("GOTKS/Import Questions From Text")]
         public static void ImportQuestions()
         {
-            string filePath = EditorUtility.OpenFilePanel("Select Question Text File", "D:\\Utilities\\GOTKS", "txt");
-            string savePath = EditorUtility.OpenFolderPanel("Select Destination", "C:\\dev\\Unity\\Guardians-of-the-Knowledge-Stones\\Assets\\Prefabs\\Questions\\Resources", "") + "/";
-            //string savePath = "C:\\dev\\Unity\\Guardians-of-the-Knowledge-Stones\\Assets\\Prefabs\\Questions\\Resources/Elementary/";
+            string filePath = EditorUtility.OpenFilePanel("Select Question Text File", "/Assets", "txt");
             if (string.IsNullOrEmpty(filePath))
                 return;
+
+            string savePath = "Assets/Prefabs/Questions/Resources/College/";
+            //string savePath = EditorUtility.OpenFolderPanel("Select Destination", "Assets/", "") + "/";
+            if (!Directory.Exists(savePath)) 
+                Directory.CreateDirectory(savePath);
 
             string[] lines = File.ReadAllLines(filePath);
             List<(string question, List<string> choices, int answerIndex)> questions = new();
@@ -62,8 +65,6 @@ namespace Core.GOTKS.Editor
                 questions.Add((currentQuestion, new List<string>(currentChoices), answerIndex));
             }
 
-            if (!Directory.Exists(savePath)) Directory.CreateDirectory(savePath);
-
             foreach (var q in questions)
             {
                 var asset = ScriptableObject.CreateInstance<QuestionSO>();
@@ -78,7 +79,7 @@ namespace Core.GOTKS.Editor
                 so.FindProperty("_answerIndex").intValue = q.answerIndex;
                 so.ApplyModifiedProperties();
 
-                string safeName = MakeSafeFileName(q.question, questions.IndexOf(q));
+                string safeName = MakeSafeFileName(q.question);
                 AssetDatabase.CreateAsset(asset, savePath + safeName + ".asset");
             }
 
@@ -87,13 +88,11 @@ namespace Core.GOTKS.Editor
             Debug.Log($"Imported {questions.Count} questions.");
         }
 
-        private static string MakeSafeFileName(string input, int index)
+        private static string MakeSafeFileName(string input)
         {
             foreach (var c in Path.GetInvalidFileNameChars())
                 input = input.Replace(c, '_');
-
-            input = input.Length > 30 ? input.Substring(0, 30) : input;
-            return $"{input}_{index:D4}";
+            return input.Length > 40 ? input.Substring(0, 40) : input;
         }
     }
 
