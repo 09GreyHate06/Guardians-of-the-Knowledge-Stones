@@ -1795,7 +1795,7 @@ MonoBehaviour:
     byteData: 
     xmlData: '<xmldata>
 
-      <_float battleChance="10" checkInterval="1" minMoveCheckDistance="0.1"
+      <_float battleChance="10" checkInterval="0.3" minMoveCheckDistance="0.1"
       minBattleDistance="50" maxBattleDistance="70" />
 
       <_bool checkLocalPosition="False"

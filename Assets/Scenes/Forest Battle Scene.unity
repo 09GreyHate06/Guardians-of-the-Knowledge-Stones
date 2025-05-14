@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 13650c9f255e440c28885b43f863a21d, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: d1339379183f7481e91b499d20be7e62, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -316,6 +316,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46e54e623fad5c6438eb4bf92f353252, type: 3}
+--- !u!1001 &1451917181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2032855302944496510, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5317652658049247044, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
+      propertyPath: m_Name
+      value: Question Manager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f1df2c74159c40f4ab9c59cde2125306, type: 3}
 --- !u!1001 &1857138340
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -91676,3 +91733,4 @@ SceneRoots:
   - {fileID: 8302359730145468447}
   - {fileID: 675188901}
   - {fileID: 1857138340}
+  - {fileID: 1451917181}

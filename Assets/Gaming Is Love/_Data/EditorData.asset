@@ -17,16 +17,16 @@ MonoBehaviour:
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
   section: 3
-  subSection: 8
+  subSection: 2
   tabIndex: -1
-  scrollY: 1294
+  scrollY: 2160
   foldoutLimit: 
-  helpDrag: 135
+  helpDrag: 80
   subSectionDrag: 201
   tabListDrag: 250
   formulaDrag: 250
-  schematicDrag: 305
-  jumpListDrag: 229
+  schematicDrag: 200
+  jumpListDrag: 312
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
   createBackup: 1
@@ -38,9 +38,11 @@ MonoBehaviour:
   schematicAsset:
   - {fileID: 11400000, guid: f93e1494ccbd9294e9a487cb084edede, type: 2}
   - {fileID: 11400000, guid: 95f4594193c001c4b904c2508dad1035, type: 2}
+  - {fileID: 11400000, guid: 08a24f5df80d889408584708c6ebe8a4, type: 2}
+  - {fileID: 11400000, guid: a28e4f9ab15aeda4fa4d462259707573, type: 2}
+  - {fileID: 11400000, guid: 6c271b6c3cb481a4a8b96bb3d93cbbd6, type: 2}
   - {fileID: 11400000, guid: dac190eef3f16794f9c60182ab14c400, type: 2}
   - {fileID: 11400000, guid: c2233e9a8b22efc419747e84dbc14998, type: 2}
-  - {fileID: 11400000, guid: a28e4f9ab15aeda4fa4d462259707573, type: 2}
   - {fileID: 11400000, guid: 425d77dcbeb509940b8da8a0f65390aa, type: 2}
   - {fileID: 11400000, guid: c105fd6575ae21846895ee52954cb89a, type: 2}
   - {fileID: 11400000, guid: b8d361ac429f4b24bad70b722c8b2ee8, type: 2}
@@ -62,6 +64,10 @@ MonoBehaviour:
   - ui
   - battleScene
   - wait
+  - spell_question_correct
+  - correct_answer
+  - answered
+  - 01
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
