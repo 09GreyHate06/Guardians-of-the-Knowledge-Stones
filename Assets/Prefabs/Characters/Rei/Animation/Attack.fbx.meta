@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: f9ff7d3ef5497d048a925caaf9790e0d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 69
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Attack(Clone)
+      parentName: 
+      position: {x: -0, y: 1.8298877, z: 0}
+      rotation: {x: -0.7064338, y: 0.030843558, z: 0.030843558, w: 0.7064338}
+      scale: {x: 1.1138064, y: 1.1138064, z: 0.2577308}
+    - name: Leg_Leg
+      parentName: Attack(Clone)
+      position: {x: -0.28267607, y: 0.00087511615, z: -0.37320608}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.72863334, y: 0.72863334, z: 3.938552}
+    - name: Left_foot
+      parentName: Leg_Leg
+      position: {x: 0.008867675, y: -0.00016369822, z: -1.7115337}
+      rotation: {x: 1, y: 0, z: 0, w: -6.123234e-17}
+      scale: {x: 1.1493987, y: 1.2321999, z: 1.9199024}
+    - name: Right_leg
+      parentName: Attack(Clone)
+      position: {x: 0.2677021, y: 0.00087511615, z: -0.53169465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.72863334, y: 0.72863334, z: 3.938552}
+    - name: Right_foot
+      parentName: Right_leg
+      position: {x: 0.018467791, y: -0.00016368763, z: -1.6712929}
+      rotation: {x: 1, y: 0, z: 0, w: -6.123234e-17}
+      scale: {x: 1.1493987, y: 1.2321999, z: 1.9199024}
+    - name: Skirt
+      parentName: Attack(Clone)
+      position: {x: -0.000000003027916, y: -0.00001018591, z: 0.13694474}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8882772, y: 0.8882772, z: 0.8882769}
+    - name: Armor
+      parentName: Attack(Clone)
+      position: {x: -0.03227114, y: 0.0028233647, z: -2.1013045}
+      rotation: {x: 0, y: -0, z: -0.043619372, w: 0.99904823}
+      scale: {x: 1.0000001, y: 1.0000001, z: 3.6951513}
+    - name: 'Right_shoulder '
+      parentName: Armor
+      position: {x: 0.66972506, y: -0.0052534794, z: 0.83431166}
+      rotation: {x: 0, y: -0.043619387, z: -0, w: 0.99904823}
+      scale: {x: 0.897822, y: 0.897822, z: 1.0500294}
+    - name: Right_shoulder_pad
+      parentName: 'Right_shoulder '
+      position: {x: 0.16752814, y: 0.029432133, z: -0.021935774}
+      rotation: {x: 0.43045938, y: 0.43045944, z: 0.5609855, w: 0.56098545}
+      scale: {x: 1.7004206, y: 0.9999999, z: 1}
+    - name: Right_arm
+      parentName: 'Right_shoulder '
+      position: {x: -0, y: 0.00000003027916, z: -1.2033101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.60926306, y: 0.60926306, z: 1.4266298}
+    - name: Right_hand
+      parentName: Right_arm
+      position: {x: 0.017711807, y: 0.000000031793117, z: -0.32879257}
+      rotation: {x: -0.5415745, y: -0.036357604, z: 0.014763851, w: 0.8397364}
+      scale: {x: 1.6413273, y: 1.641327, z: 0.70095265}
+    - name: Sword
+      parentName: Right_hand
+      position: {x: -0.015510294, y: 0.23158938, z: 0.0011600067}
+      rotation: {x: -0.6482248, y: -0.7307857, z: 0.1799252, w: -0.115688816}
+      scale: {x: 0.5299037, y: 0.51557726, z: 1}
+    - name: 'Left_shoulder '
+      parentName: Armor
+      position: {x: -0.7150585, y: -0.0052534794, z: 0.83431166}
+      rotation: {x: 0.99904823, y: -2.6709166e-18, z: -0.04361938, w: -6.117406e-17}
+      scale: {x: -0.897822, y: 0.897822, z: -1.0500296}
+    - name: Left_shoulder_pad
+      parentName: 'Left_shoulder '
+      position: {x: 0.16752814, y: 0.029432133, z: -0.021935774}
+      rotation: {x: 0.43045938, y: 0.43045944, z: 0.5609855, w: 0.56098545}
+      scale: {x: 1.7004206, y: 0.9999999, z: 1}
+    - name: Left_arm
+      parentName: 'Left_shoulder '
+      position: {x: -0, y: 0.00000003027916, z: -1.2033101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.60926306, y: 0.60926306, z: 1.4266298}
+    - name: Left_hand
+      parentName: Left_arm
+      position: {x: 0.017711807, y: 0.000000031793117, z: -0.32879257}
+      rotation: {x: 0.041144732, y: -0.00000001117587, z: 0.47028664, w: 0.88155407}
+      scale: {x: 1.6413273, y: 1.641327, z: 0.70095265}
+    - name: Shield
+      parentName: Left_hand
+      position: {x: 0.10659049, y: 0.029432308, z: -0.080134064}
+      rotation: {x: 0.7387675, y: 0.00000024912623, z: 0.6739603, w: -0.00000007875241}
+      scale: {x: 1.6533939, y: 1.0000001, z: 0.998392}
+    - name: Head
+      parentName: Armor
+      position: {x: -0, y: -0.000000056016443, z: 1.9174933}
+      rotation: {x: 0.18223563, y: -0.0000000018626451, z: 0.000000011175871, w: -0.98325497}
+      scale: {x: 0.897822, y: 0.897822, z: 1.0500294}
+    - name: Helmet
+      parentName: Head
+      position: {x: -0, y: 0.000000063586235, z: 0.7060845}
+      rotation: {x: 0.40116614, y: 0.009373829, z: -0.024419645, w: 0.91563183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Feather
+      parentName: Helmet
+      position: {x: -0.01848785, y: 0.023580771, z: 1.4915873}
+      rotation: {x: 0.6087616, y: -0, z: -0, w: 0.7933532}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
