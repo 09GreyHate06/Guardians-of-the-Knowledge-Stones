@@ -24,10 +24,10 @@ EditorBuildSettings:
     path: Assets/Scenes/04.unity
     guid: 151caea9c1b32454c986ea05b1efe802
   - enabled: 1
-    path: Assets/Scenes/Forest Battle Scene.unity
+    path: Assets/Scenes/01-BattleScene.unity
     guid: 4c12822dd6575504ea9d44053f6dfed8
   - enabled: 1
-    path: Assets/Scenes/Courtyard Battle Scene.unity
+    path: Assets/Scenes/02-BattleScene.unity
     guid: cc830b18082f4034dbb2efde8db94d21
   - enabled: 1
     path: Assets/Scenes/Castle Battle Scene.unity

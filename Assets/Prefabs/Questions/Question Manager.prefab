@@ -48,9 +48,9 @@ MonoBehaviour:
   _elementaryQuestions:
   - {fileID: 11400000, guid: c444eff33536a7b4caba79aa6bc998cc, type: 2}
   _highSchoolQuestions:
-  - {fileID: 11400000, guid: 26abcea94a4992a40a6d43196bcef938, type: 2}
+  - {fileID: 11400000, guid: c444eff33536a7b4caba79aa6bc998cc, type: 2}
   _collegeQuestions:
-  - {fileID: 11400000, guid: 04dd91938f25d524fa91551434cc7c15, type: 2}
+  - {fileID: 11400000, guid: c444eff33536a7b4caba79aa6bc998cc, type: 2}
   _questionUIPrefab: {fileID: 876454905129148117, guid: 5e262ed13040cfc4abb11af07eef5e05, type: 3}
   _choicePrefab: {fileID: 8548253486281480747, guid: 76a17d826e1d5e54493a250a61f70c40, type: 3}
   _audioSource: {fileID: 537575070641921626}
