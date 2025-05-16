@@ -5476,7 +5476,7 @@ AnimationClip:
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 24
-  m_WrapMode: 0
+  m_WrapMode: 2
   m_Bounds:
     m_Center: {x: -0.0205369, y: -1.0541496, z: 0.023671865}
     m_Extent: {x: 1.1856766, y: 2.5939395, z: 1.4303553}

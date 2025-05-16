@@ -17,10 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/02.unity
     guid: 7513b02b02eacb946b99e7232a89fc14
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/03.unity
     guid: c97bdaf8b5fade140bceeb56c1ef6173
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/04.unity
     guid: 151caea9c1b32454c986ea05b1efe802
   - enabled: 1
@@ -29,10 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/02-BattleScene.unity
     guid: cc830b18082f4034dbb2efde8db94d21
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Castle Battle Scene.unity
     guid: 0be570b982d0c7441b82c707632c4f3f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Boss Battle Scene.unity
     guid: 32b5f374c8e8da74ba2c4cca92ef87c5
   m_configObjects:

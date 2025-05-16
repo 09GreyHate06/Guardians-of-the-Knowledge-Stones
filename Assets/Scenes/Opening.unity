@@ -843,8 +843,7 @@ MonoBehaviour:
     world \u2014 to find the fragments and restore what was lost."
   - But something hunts the fragments too. A being once human, now twisted by stolen
     knowledge. He calls himself the Warden of Forgetting Jabzes.
-  - To save the world, you must reclaim the Stones, find his hidden castle... and
-    end him.
+  - To save the world, you must reclaim the Stones, find him... and end him.
   _delay: 3
 --- !u!1 &597636584
 GameObject:
